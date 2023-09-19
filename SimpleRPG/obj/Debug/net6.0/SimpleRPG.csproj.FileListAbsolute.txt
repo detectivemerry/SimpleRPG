@@ -1,0 +1,14 @@
+C:\Projects\C#\SimpleRPG\SimpleRPG\bin\Debug\net6.0\SimpleRPG.exe
+C:\Projects\C#\SimpleRPG\SimpleRPG\bin\Debug\net6.0\SimpleRPG.deps.json
+C:\Projects\C#\SimpleRPG\SimpleRPG\bin\Debug\net6.0\SimpleRPG.runtimeconfig.json
+C:\Projects\C#\SimpleRPG\SimpleRPG\bin\Debug\net6.0\SimpleRPG.dll
+C:\Projects\C#\SimpleRPG\SimpleRPG\bin\Debug\net6.0\SimpleRPG.pdb
+C:\Projects\C#\SimpleRPG\SimpleRPG\obj\Debug\net6.0\SimpleRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\SimpleRPG\SimpleRPG\obj\Debug\net6.0\SimpleRPG.AssemblyInfoInputs.cache
+C:\Projects\C#\SimpleRPG\SimpleRPG\obj\Debug\net6.0\SimpleRPG.AssemblyInfo.cs
+C:\Projects\C#\SimpleRPG\SimpleRPG\obj\Debug\net6.0\SimpleRPG.csproj.CoreCompileInputs.cache
+C:\Projects\C#\SimpleRPG\SimpleRPG\obj\Debug\net6.0\SimpleRPG.dll
+C:\Projects\C#\SimpleRPG\SimpleRPG\obj\Debug\net6.0\refint\SimpleRPG.dll
+C:\Projects\C#\SimpleRPG\SimpleRPG\obj\Debug\net6.0\SimpleRPG.pdb
+C:\Projects\C#\SimpleRPG\SimpleRPG\obj\Debug\net6.0\SimpleRPG.genruntimeconfig.cache
+C:\Projects\C#\SimpleRPG\SimpleRPG\obj\Debug\net6.0\ref\SimpleRPG.dll
